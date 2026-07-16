@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**CoderAugusto/CoderAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Pedro%20Augusto&fontSize=50&fontColor=fff" />
 
-Here are some ideas to get you started:
+<h3>Ciência da Computação • UFV</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroaugustomartins/)
+
+</div>
+
+---
+
+### Sobre
+
+- 🎓 Graduando em Ciência da Computação (UFV)
+- 🔬 Pesquisa em segurança da informação e cibercrimes (UFV/UFMG)
+- 📜 Certificado NVIDIA — Fundamentals of Accelerated Data Science
+
+---
+
+### Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,git" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CoderAugusto&show_icons=true&theme=radical&hide_border=true" width="48%" />
+</div>
