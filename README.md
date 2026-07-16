@@ -21,11 +21,5 @@
 ### Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,git" />
-</div>
-
----
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CoderAugusto&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://skillicons.dev/icons?i=python,java,c,git" />
 </div>
