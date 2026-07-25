@@ -12,7 +12,7 @@
 
 ### Sobre
 
-- 🎓 Graduando em Ciência da Computação (UFV)
+- 🎓 Graduado em Ciência da Computação (UFV)
 - 🔬 Pesquisa em segurança da informação e cibercrimes (UFV/UFMG)
 - 📜 Certificado NVIDIA — Fundamentals of Accelerated Data Science
 
